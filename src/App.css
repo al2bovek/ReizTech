@@ -1,0 +1,57 @@
+html {
+  background-color: rgb(212, 248, 212);
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mail {
+  float: right;
+  text-decoration: none;
+}
+
+.header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 19px;
+}
+
+.nameSort {
+  float: right;
+}
+
+select {
+  margin-top: 30px;
+  background-color: rgb(69, 212, 69);
+  border-radius: 6px;
+  height: 60px;
+  font-size: 19px;
+  border: none;
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+ul {
+  background-color: rgb(162, 243, 162);
+  border-radius: 6px;
+  padding-left: 16px;
+  font-size: 20px;
+  font-weight: 300;
+
+}
+
+ul li {
+  list-style-type: none;
+  padding: 6px;
+}
+
+ul li span {
+  background-color: rgb(222, 216, 216);
+  padding: 3px;
+  border-radius: 3px;
+
+}
+
+footer {
+  margin-left: 40%;
+}
