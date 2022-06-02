@@ -1,1 +1,1 @@
-REIZ TECH Assignment 
+REIZ TECH Assignment.
